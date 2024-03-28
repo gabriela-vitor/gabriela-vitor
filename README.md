@@ -15,7 +15,7 @@
 
 <div align="center">  
 <a href="https://www.instagram.com/gabbi_vvs/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-F8F8FF?style=for-the-badge&logo=instagram&logoColor=black"</a>
- <a href="mailto:cmp.1a.gabriela.vitor2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-F8F8FF?style=for-the-badge&logo=gmail&logoColor=black"</a>
+ <a href="mailto:gabriela.vitor2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-F8F8FF?style=for-the-badge&logo=gmail&logoColor=black"</a>
 </div> 
 
 ### Knowledge:
