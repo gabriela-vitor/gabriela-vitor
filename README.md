@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BA55D3&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BA55D3&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Gabriela+Siqueira;I'm+19+years+old;I+am+from+Brasília,+DF;I+study+computer+science;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BA55D3&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Gabriela+Siqueira;I'm+20+years+old;I+am+from+Brasília,+DF;I+study+computer+science;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gabriela-vitor&show_icons=true&count_private=true&hide_border=true&title_color=BA55D3&icon_color=BA55D3&text_color=FFFFFF&bg_color=0d1117" alt="Gabriela Siqueira github stats" /> 
